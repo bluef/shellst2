@@ -1,0 +1,9 @@
+[
+    {
+        "id": "view",
+        "children":
+        [
+            {"command": "shell", "caption": "Shell"}
+        ]
+    }
+]
